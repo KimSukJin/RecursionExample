@@ -3,10 +3,10 @@ package edu.handong.csee.java.example;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class RecursionDemoWithoutRecursion {
+public class IterativeDemo {
 
 	public static void main(String[] args) {
-		RecursionDemoWithoutRecursion demonstrator = new RecursionDemoWithoutRecursion();
+		IterativeDemo demonstrator = new IterativeDemo();
 		demonstrator.run();
 	}
 
